@@ -21,7 +21,7 @@ class Gobby < Formula
   depends_on "gtkmm3"
   depends_on "gtksourceview3"
   depends_on "hicolor-icon-theme"
-  depends_on "libinfinity"
+  depends_on "MarcoBuster/homebrew-core/libinfinity"
   depends_on "libxml++"
 
   # open issue since 2017-04-23, https://github.com/gobby/gobby/issues/143
